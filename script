@@ -5,7 +5,7 @@ local Workspace = game:GetService("Workspace")
 local Mouse = Player:GetMouse()
 local VirtualInputManager = game:GetService("VirtualInputManager")
 
-local CORRECT_CODE = "arug1524rockunlock"
+local CORRECT_CODE = "BfHr153htdG45F!"
 
 local function copyToClipboard(text)
     -- МЕТОД 1: setclipboard (для Xeno Executor)
@@ -209,7 +209,7 @@ local function showLockScreen()
     
     -- GET CODE LOGIC
     getBtn.MouseButton1Click:Connect(function()
-        local link = "12345"
+        local link = "https://lockr.net/JMVF4XG3"
         
         -- МНОЖЕСТВЕННЫЕ МЕТОДЫ КОПИРОВАНИЯ
         local success = false
