@@ -5,7 +5,7 @@ local Workspace = game:GetService("Workspace")
 local Mouse = Player:GetMouse()
 local VirtualInputManager = game:GetService("VirtualInputManager")
 
-local CORRECT_CODE = "BfHr153htdG45F!"
+local CORRECT_CODE = "bfhr153htdg45f!"
 
 local function copyToClipboard(text)
     pcall(function()
